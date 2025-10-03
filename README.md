@@ -15,6 +15,6 @@ The first browser extensions that Richard made. It is just a test
 5. **Upload unpacked folder**
    - Click "Load unpacked" and select the folders where you extract the files.
 6. **Enable the extensions.**
-   - Turn on urn on your extensions on your browser's extensions setting page
+   - Turn on your extensions on your browser's extensions setting page
 7. **Done**
    - Go to the search bar of the browser and you will see the extensions.

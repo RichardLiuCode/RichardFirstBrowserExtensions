@@ -1,12 +1,15 @@
-# Richard's first browser extensions
+# Richard's First Browser Extensions
 The first browser extensions that Richard made. It is just a test
 
 ## Installation
-1. Download the files as zip and extract the file.
-   - On the top, click "Code" and then click "Download as ZIP"
-2. Open your browser and go to the extensions setting page.
-   - if you use google Chrome go to ````chrome://extensions````  or  if you use Microsoft Edge go to ````edge://extensions````.
-3. Turn on "Developer mode".
-4. Click "Load unpacked" and then upload the files you just downloaded.
-5. Turn on the extensions
-6. Go to the search bar of the browser and you will see the extensions.
+1. **Download the extensions**
+   - On the top of the repoistiories, click the green **Code** button and then select **Download as ZIP**.
+   - After you downloaded the zip files, extract the file on your computer.
+   
+3. Open your browser and go to the extensions setting page.
+   - For Google Chrome go to ````chrome://extensions```` 
+   - For Microsoft Edge go to ````edge://extensions````
+4. Turn on "Developer mode".
+5. Click "Load unpacked" and select the folders where you extract the files.
+6. Turn on the extensions
+7. Go to the search bar of the browser and you will see the extensions.

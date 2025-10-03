@@ -14,6 +14,7 @@ The first browser extensions that Richard made. It is just a test
    - There has a switch on the browser and it is called **Developer mode**, enable it to turn on developer mode.
 5. **Upload unpacked folder**
    - Click "Load unpacked" and select the folders where you extract the files.
-6. **Turn on the extensions.**
+6. **Enable the extensions.**
+   - Turn on urn on your extensions on your browser's extensions setting page
 7. **Done**
    - Go to the search bar of the browser and you will see the extensions.

@@ -1,5 +1,5 @@
 # Richard's first browser extensions
-The first browser extensions that Richard made.
+The first browser extensions that Richard made. It is just a test
 
 ## Installation
 1. Download the files as zip and extract the file.
@@ -10,6 +10,3 @@ The first browser extensions that Richard made.
 4. Click "Load unpacked" and then upload the files you just downloaded.
 5. Turn on the extensions
 6. Go to the search bar of the browser and you will see the extensions.
-
-
-

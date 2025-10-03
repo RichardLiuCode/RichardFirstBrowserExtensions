@@ -11,6 +11,7 @@ The first browser extensions that Richard made. It is just a test
    - For Google Chrome go to ````chrome://extensions```` 
    - For Microsoft Edge go to ````edge://extensions````
 4. **Turn on "Developer mode".**
+   - There has a switch on the browser and it is called **Developer mode**, enable it to turn on developer mode.
 5. **Upload unpacked folder**
    - Click "Load unpacked" and select the folders where you extract the files.
 6. **Turn on the extensions.**

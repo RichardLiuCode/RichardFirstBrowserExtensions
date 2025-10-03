@@ -21,4 +21,4 @@ The first browser extensions that Richard made. It is just a test
   
 
 - **Igore the popup warning**
-Browser will remind you with a popup, because you installed a third party extensions, just igore it if you use a safe extensions.
+  - Browser will remind you with a popup, because you installed a third party extensions, just igore it if you make sure the extensions is safe.

@@ -19,6 +19,5 @@ The first browser extensions that Richard made. It is just a test
 7. **Done**
    - Go to the search bar of the browser and you will see the extensions.
   
-
 - **Igore the popup warning**
   - Browser will remind you with a popup, because you installed a third party extensions, just igore it if you make sure the extensions is safe.

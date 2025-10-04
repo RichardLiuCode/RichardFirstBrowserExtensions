@@ -20,4 +20,4 @@ The first browser extensions that Richard made. It is just a test
    - Go to the search bar of the browser and you will see the extensions.
   
 - **Igore the popup warning**
-  - Browser will remind you with a popup, because you installed a third party extensions, just igore it if you make sure the extensions is safe.
+  - For sercurity reason, browser will remind you with a popup message that said you turned on the developer mode because you installed a third party extensions, if you make sure the extensions is from trused sources or you checked the code that it is safe to use, then you can igore the message.
